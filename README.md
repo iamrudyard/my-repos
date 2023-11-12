@@ -1873,7 +1873,7 @@ plt.show()
 
 
     
-![png](README_files/README_29_0.png)
+![png](download.png)
     
 
 
@@ -1893,7 +1893,7 @@ plt.show()
 
 
     
-![png](README_files/README_30_0.png)
+![png](by_year.png)
     
 
 
@@ -1909,7 +1909,7 @@ plt.show()
 
 
     
-![png](README_files/README_31_0.png)
+![png](top_genre.png)
     
 
 
@@ -1927,6 +1927,6 @@ plt.show()
 
 
     
-![png](README_files/README_32_0.png)
+![png](heatmap.png)
     
 
